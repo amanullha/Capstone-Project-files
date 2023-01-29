@@ -1,0 +1,7 @@
+/home/ubuntu/Desktop/capston/Bangla StopWords.txt
+
+https://www.kaggle.com/furcifer/starter-bilstm
+
+https://www.kaggle.com/nuhashafnan/bangla-sentiment-analysis-cnn-lstm-hybrid-network
+
+banglaword clould: https://www.kaggle.com/kilimannejaro/word-cloud-in-bengali
